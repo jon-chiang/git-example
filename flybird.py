@@ -1,1 +1,2 @@
 fly high
+then die
